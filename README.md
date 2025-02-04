@@ -4,7 +4,7 @@ I’m a BIM software developer specializing in the AEC industry, combining archi
 My work revolves around creating custom automation tools to enhance design workflows and data management.
 
 <!-- [![Julio's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcesarpolo)](https://github.com/jcesarpolo/github-readme-stats) -->
-![Top Langs](https://github-readme-stats-nine-sepia-94.vercel.app/api/top-langs/?username=jcesarpolo&theme=holi&langs_count=10)
+![Top Langs](https://github-readme-stats-nine-sepia-94.vercel.app/api/top-langs/?username=jcesarpolo&layout=compact&theme=holi)
 
 
 <!--
